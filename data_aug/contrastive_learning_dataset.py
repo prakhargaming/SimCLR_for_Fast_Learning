@@ -77,7 +77,7 @@ class ContrastiveLearningDataset:
         Returns the dataset with the given name and number of views.
         
         Args:
-            name (str): Name of the dataset ('cifar10', 'stl10', or 'symbols')
+            name (str): Name of the dataset ('symbols')
             n_views (int): Number of augmented views to generate for each image
             split (str): Train, Test, or Validate
         """
