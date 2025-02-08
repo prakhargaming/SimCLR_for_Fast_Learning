@@ -1,0 +1,75 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+coverage.xml
+*.lcov
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# Pyre
+.pyre/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environment
+.vscode/
+*.code-workspace
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+ntuser.dat*
+ntuser.ini
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs and databases
+*.log
+*.sqlite3
+
+datasets/test/
+datasets/train/
+datasets/valid
+
+datasets_extracted_symbols/
+
+events*.*

@@ -1,0 +1,5 @@
+Evaluating k-NN classification...
+
+k-NN Classification Accuracy: 0.4882
+
+Final accuracy: 0.4882075471698113

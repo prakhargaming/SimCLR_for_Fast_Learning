@@ -1,0 +1,2 @@
+k-NN Classification Accuracy: 0.7972
+Final accuracy: 0.7971698113207547
