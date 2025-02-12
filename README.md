@@ -6,7 +6,7 @@ By Prakhar Sinha
 
 ## Evaluation
 <p align="middle">
-  <img src="README_images/image.png" width="45%" />
+  <img src="README_images/train.png" width="45%" />
   <img src="README_images/test.png" width="45%" /> 
 </p>
 
